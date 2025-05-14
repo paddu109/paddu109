@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @paddu109
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-paddu109/paddu109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @paddu109  
+- 👀 I’m interested in Natural Language Processing, Machine Learning, and Open Source Development  
+- 🌱 I’m currently learning Deep Learning, Transformer Models, and Neural Machine Translation  
+- 💞️ I’m looking to collaborate on NLP projects, especially involving low-resource languages and model interpretability  
+- 📫 How to reach me: [padmalathabommepalli@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- 😄 Pronouns: They/Them (or your preferred pronouns)  
+- ⚡ Fun fact: I can speak three languages and I love creating language-based puzzles!
