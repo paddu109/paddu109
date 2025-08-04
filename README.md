@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paddu109  
+- 👋 Hi, I’m @padma109 
 - 👀 I’m interested in Natural Language Processing, Machine Learning, and Open Source Development  
 - 🌱 I’m currently learning Deep Learning, Transformer Models, and Neural Machine Translation  
 - 💞️ I’m looking to collaborate on NLP projects, especially involving low-resource languages and model interpretability  
